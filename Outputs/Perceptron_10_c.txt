@@ -1,0 +1,64 @@
+Training Perceptron
+iteration :  1
+iteration :  2
+iteration :  3
+iteration :  4
+iteration :  5
+iteration :  6
+iteration :  7
+iteration :  8
+iteration :  9
+iteration :  10
+Evaluating Original Perceptron on train data
+0.95036
+Evaluating Original Perceptron on test data
+0.86112
+Computing Average Parameters of the Perceptron
+Evaluating Average Perceptron on train data
+0.94164
+Evaluating Average Perceptron on test data
+0.87184
+(1L, 252193L)
+Most Positive Words
+excellent , 132.173091308
+perfect , 129.009719961
+favorite , 114.623837505
+wonderful , 105.268822925
+amazing , 104.368666525
+loved , 102.43741025
+subtle , 97.5410458358
+easy , 96.880244479
+7 , 95.4269462922
+wonderfully , 93.8305446778
+rare , 93.4064583742
+highly , 92.8701045196
+superb , 92.5653737385
+funniest , 89.3294506822
+! , 87.8333086668
+noir , 85.9517801929
+tony , 85.7079131683
+great , 83.2553149787
+fantastic , 82.4249903
+atmosphere , 82.2411950352
+Most Negative Words
+worst , -263.233195067
+waste , -236.813824745
+poorly , -177.462742149
+boring , -152.515793937
+awful , -147.63743745
+annoying , -142.744817021
+worse , -131.955460178
+fails , -128.30749077
+dull , -126.781268875
+lame , -126.491950032
+poor , -126.360674557
+disappointing , -115.51498994
+pointless , -115.232311071
+awful. , -114.955420178
+save , -111.94756421
+bad. , -110.989400042
+lacks , -110.147791409
+badly , -109.809128763
+supposed , -109.327154691
+nothing , -107.093547626
+[4;33mReloaded modules[24m: Eval, Vocab, imdb[0m

@@ -1,0 +1,55 @@
+Training Perceptron
+iteration :  1
+Evaluating Original Perceptron on train data
+0.75048
+Evaluating Original Perceptron on test data
+0.74232
+Computing Average Parameters of the Perceptron
+Evaluating Average Perceptron on train data
+0.8592
+Evaluating Average Perceptron on test data
+0.83836
+(1L, 252193L)
+Most Positive Words
+! , 231.25898964
+great , 115.662653494
+best , 89.8901643934
+excellent , 82.6712531499
+both , 63.731050758
+perfect , 63.3597856086
+well , 60.2149914003
+loved , 60.0061197552
+enjoyed , 59.4670213191
+wonderful , 58.2061117555
+world , 52.3213871445
+amazing , 50.6480140794
+bit , 48.5104595816
+beautiful , 48.1327146914
+job , 48.0803567857
+shows , 47.9112435503
+especially , 47.5254189832
+favorite , 46.3425062997
+may , 44.8337266509
+highly , 44.5107395704
+Most Negative Words
+worst , -150.533698652
+bad , -126.615855366
+waste , -95.363625455
+poor , -86.1915123395
+nothing , -81.0656373745
+script , -76.4748210072
+minutes , -72.8720851166
+supposed , -69.3653053878
+no , -67.4731410744
+stupid , -64.5287788488
+poorly , -62.9470021199
+awful , -62.6350145994
+any , -59.753049878
+looks , -59.1964321427
+worse , -58.6839326427
+acting , -57.3407463701
+even , -57.1863525459
+original , -56.0141594336
+least , -55.5027398904
+tries , -55.3792648294
+[4;33mReloaded modules[24m: Eval, Vocab, imdb[0m

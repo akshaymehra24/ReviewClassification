@@ -1,0 +1,104 @@
+Training Perceptron
+iteration :  1
+iteration :  2
+iteration :  3
+iteration :  4
+iteration :  5
+iteration :  6
+iteration :  7
+iteration :  8
+iteration :  9
+iteration :  10
+iteration :  11
+iteration :  12
+iteration :  13
+iteration :  14
+iteration :  15
+iteration :  16
+iteration :  17
+iteration :  18
+iteration :  19
+iteration :  20
+iteration :  21
+iteration :  22
+iteration :  23
+iteration :  24
+iteration :  25
+iteration :  26
+iteration :  27
+iteration :  28
+iteration :  29
+iteration :  30
+iteration :  31
+iteration :  32
+iteration :  33
+iteration :  34
+iteration :  35
+iteration :  36
+iteration :  37
+iteration :  38
+iteration :  39
+iteration :  40
+iteration :  41
+iteration :  42
+iteration :  43
+iteration :  44
+iteration :  45
+iteration :  46
+iteration :  47
+iteration :  48
+iteration :  49
+iteration :  50
+Evaluating Original Perceptron on train data
+0.9974
+Evaluating Original Perceptron on test data
+0.862
+Computing Average Parameters of the Perceptron
+Evaluating Average Perceptron on train data
+0.98944
+Evaluating Average Perceptron on test data
+0.87072
+(1L, 252193L)
+Most Positive Words
+wonderfully , 169.17520706
+7 , 152.196681443
+subtle , 138.920216064
+rare , 138.124217501
+7/10 , 134.585055532
+refreshing , 132.403166877
+favorite , 131.246076603
+perfect , 129.970289624
+excellent , 128.01228639
+funniest , 127.514294789
+perfect. , 122.003169597
+amazing. , 121.786773771
+noir , 121.472289222
+highly , 120.42519006
+superb , 119.219480624
+captures , 118.910805671
+8 , 117.233929413
+delightful , 116.61299711
+surprisingly , 116.350866919
+perfect, , 115.445820443
+Most Negative Words
+worst , -261.073114342
+waste , -254.647729082
+poorly , -247.109740712
+awful. , -183.521884382
+fails , -183.515551588
+boring , -179.54996676
+disappointing , -169.688662649
+annoying , -166.260421392
+lame , -164.188684649
+lacks , -157.728749017
+terrible. , -151.710188232
+dull , -151.316256547
+awful , -146.654064277
+pointless , -146.19940944
+badly , -144.010875991
+worse , -139.669545864
+mildly , -137.53779397
+save , -135.177627858
+annoying. , -134.059311953
+disappointment , -128.608319513
+[4;33mReloaded modules[24m: Eval, Vocab, imdb[0m
