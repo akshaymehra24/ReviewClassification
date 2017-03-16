@@ -1,3 +1,5 @@
+# Movie Review Classification
+
 Firstly I have implemented a Naïve Bayes Classifier and evaluated its performance on the Large Movie review dataset, for different values of the hyper-parameter alpha.
 Below are my results
 Hyper-Parameter (ALPHA)	Train Accuracy (%)	Test Accuracy (%)
